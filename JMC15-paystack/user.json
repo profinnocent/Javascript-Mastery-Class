@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name": "Obi",
+    "age": 23,
+    "isTall": false,
+    "languages": ["English","Igbo"]
+  },
+  {
+    "id": 2,
+    "name": "Aka",
+    "age": 21,
+    "isTall": true,
+    "languages": ["spanish"]
+
+  },
+  {
+    "id": 3,
+    "name": "Musa",
+    "age": 29,
+    "isTall": false,
+    "languages": ["English","Yoruba"]
+
+  }
+]
